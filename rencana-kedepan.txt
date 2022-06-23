@@ -3,7 +3,11 @@ RENCANA KEDEPAN
 - Javascript
   * ES6
   * Framework
+   * vue
+   * React
 - Struktur Data Dasar
 - PHP Framework
+ * Laravel
 - Interview
 - Vlogs
+- Python
