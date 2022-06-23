@@ -1,6 +1,8 @@
 RENCANA KEDEPAN
 
 - Javascript
+  * ES6
+  * Framework
 - PHP Framework
 - Interview
 - Vlogs
