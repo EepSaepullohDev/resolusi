@@ -4,6 +4,7 @@ RENCANA KEDEPAN
   * ES6
   * Framework
    * vue
+   * React
 - Struktur Data Dasar
 - PHP Framework
  * Laravel
