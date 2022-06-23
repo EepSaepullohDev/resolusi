@@ -3,6 +3,7 @@ RENCANA KEDEPAN
 - Javascript
   * ES6
   * Framework
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlogs
